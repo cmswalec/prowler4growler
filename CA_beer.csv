@@ -1,0 +1,179 @@
+"","city","abv","ibu","name","style","brew_name","lat","lng"
+"1","Belmont",NA,NA,"Kaleidoscope Collaboration 2012","American Black Ale","Devil's Canyon Brewery",37.5202145,-122.2758008
+"2","Belmont",0.071,85,"California Sunshine Rye IPA","American IPA","Devil's Canyon Brewery",37.5202145,-122.2758008
+"3","Belmont",0.074,12,"Full Boar Scotch Ale","Scotch Ale / Wee Heavy","Devil's Canyon Brewery",37.5202145,-122.2758008
+"4","Belmont",0.054,27,"Deadicated Amber","American Amber / Red Ale","Devil's Canyon Brewery",37.5202145,-122.2758008
+"5","Boonville",0.058,15,"Boont Amber Ale","American Amber / Red Ale","Anderson Valley Brewing Company",39.0090663,-123.3661194
+"6","Boonville",0.055,28,"Poleeko Gold Pale Ale (2009)","American Pale Ale (APA)","Anderson Valley Brewing Company",39.0090663,-123.3661194
+"7","Boonville",0.06,NA,"Fall Hornin'","Pumpkin Ale","Anderson Valley Brewing Company",39.0090663,-123.3661194
+"8","Boonville",0.07,80,"Hop Ottin' IPA","American IPA","Anderson Valley Brewing Company",39.0090663,-123.3661194
+"9","Boonville",0.056,4,"Summer Solstice","Cream Ale","Anderson Valley Brewing Company",39.0090663,-123.3661194
+"10","Boonville",0.055,25,"El Steinber Dark Lager","Vienna Lager","Anderson Valley Brewing Company",39.0090663,-123.3661194
+"11","Boonville",0.048,NA,"the Kimmie, the Yink and the Holy Gose","Gose","Anderson Valley Brewing Company",39.0090663,-123.3661194
+"12","Boonville",0.057,13,"Barney Flats Oatmeal Stout","Oatmeal Stout","Anderson Valley Brewing Company",39.0090663,-123.3661194
+"13","Boonville",0.042,NA,"Blood Orange Gose","Gose","Anderson Valley Brewing Company",39.0090663,-123.3661194
+"14","Boonville",0.069,6,"Winter Solstice","Winter Warmer","Anderson Valley Brewing Company",39.0090663,-123.3661194
+"15","Boonville",0.042,NA,"Keebarlin' Pale Ale","American Pale Ale (APA)","Anderson Valley Brewing Company",39.0090663,-123.3661194
+"16","Boonville",0.056,4,"Summer Solstice (2011)","Cream Ale","Anderson Valley Brewing Company",39.0090663,-123.3661194
+"17","Boonville",0.057,13,"Barney Flats Oatmeal Stout","Oatmeal Stout","Anderson Valley Brewing Company",39.0090663,-123.3661194
+"18","Boonville",0.057,13,"Barney Flats Oatmeal Stout (2012)","Oatmeal Stout","Anderson Valley Brewing Company",39.0090663,-123.3661194
+"19","Boonville",0.058,15,"Boont Amber Ale (2011)","American Amber / Red Ale","Anderson Valley Brewing Company",39.0090663,-123.3661194
+"20","Boonville",0.056,4,"Summer Solstice Cerveza Crema (2009)","Cream Ale","Anderson Valley Brewing Company",39.0090663,-123.3661194
+"21","Boonville",0.058,15,"Boont Amber Ale (2010)","American Amber / Red Ale","Anderson Valley Brewing Company",39.0090663,-123.3661194
+"22","Boonville",0.07,80,"Hop Ottin' IPA (2011)","American IPA","Anderson Valley Brewing Company",39.0090663,-123.3661194
+"23","Buellton",0.048,20,"FMB 101","Kölsch","Figueroa Mountain Brewing Company",34.613597,-120.1926505
+"24","Buellton",0.045,NA,"Weiss Weiss Baby","Kristalweizen","Figueroa Mountain Brewing Company",34.613597,-120.1926505
+"25","Buellton",0.055,45,"Czech Yo Self","Czech Pilsener","Figueroa Mountain Brewing Company",34.613597,-120.1926505
+"26","Carlsbad",0.045,NA,"PONTO S.I.P.A.","American IPA","Pizza Port Brewing Company",33.1580933,-117.3505939
+"27","Carlsbad",0.049,NA,"Chronic Ale","American Amber / Red Ale","Pizza Port Brewing Company",33.1580933,-117.3505939
+"28","Carlsbad",0.056,36,"Mucho Aloha Hawaiian Pale Ale","American Pale Ale (APA)","Butcher's Brewing",33.1580933,-117.3505939
+"29","Carlsbad",0.068,NA,"Swami's India Pale Ale","American IPA","Pizza Port Brewing Company",33.1580933,-117.3505939
+"30","Chico",0.056,37,"Sierra Nevada Pale Ale","American Pale Ale (APA)","Sierra Nevada Brewing Company",39.7284945,-121.8374777
+"31","Chico",0.072,65,"Torpedo","American IPA","Sierra Nevada Brewing Company",39.7284945,-121.8374777
+"32","Chico",0.056,37,"Sierra Nevada Pale Ale","American Pale Ale (APA)","Sierra Nevada Brewing Company",39.7284945,-121.8374777
+"33","Chico",0.048,26,"Old Chico Crystal Wheat","American Pale Wheat Ale","Sierra Nevada Brewing Company",39.7284945,-121.8374777
+"34","Chico",0.05,28,"Summerfest","Czech Pilsener","Sierra Nevada Brewing Company",39.7284945,-121.8374777
+"35","Chico",0.06,NA,"CANfusion Rye Bock","Rye Beer","Sierra Nevada Brewing Company",39.7284945,-121.8374777
+"36","Chico",0.052,NA,"Nooner","German Pilsener","Sierra Nevada Brewing Company",39.7284945,-121.8374777
+"37","Chico",0.072,65,"Torpedo","American IPA","Sierra Nevada Brewing Company",39.7284945,-121.8374777
+"38","Chico",0.06,NA,"Yonder Bock","Maibock / Helles Bock","Sierra Nevada Brewing Company",39.7284945,-121.8374777
+"39","Claremont",0.067,60,"Jacaranada Rye IPA","American IPA","Claremont Craft Ales",34.0966764,-117.7197785
+"40","Diamond Springs",0.05,NA,"Sprocket Pale Ale (2006)","American Pale Ale (APA)","David's Ale Works",38.6946259,-120.8149355
+"41","Diamond Springs",0.05,NA,"Sprocket Blonde Ale (2006)","American Blonde Ale","David's Ale Works",38.6946259,-120.8149355
+"42","Half Moon Bay",0.037,21,"Pace Setter Belgian Style Wit","Witbier","Mavericks Beer Company",37.4635519,-122.4285862
+"43","Half Moon Bay",0.037,34,"Pit Stop Chocolate Porter","American Porter","Mavericks Beer Company",37.4635519,-122.4285862
+"44","Half Moon Bay",0.037,53,"Back in the Saddle Rye Pale Ale","American Pale Ale (APA)","Mavericks Beer Company",37.4635519,-122.4285862
+"45","Los Angeles",0.046,15,"Golden Road Hefeweizen","Hefeweizen","Golden Road Brewing",34.0522342,-118.2436849
+"46","Los Angeles",0.059,60,"Point the Way IPA","American IPA","Golden Road Brewing",34.0522342,-118.2436849
+"47","Los Angeles",0.059,60,"Point the Way IPA","American IPA","Golden Road Brewing",34.0522342,-118.2436849
+"48","Los Angeles",0.08,70,"Wolf Among Weeds IPA","American IPA","Golden Road Brewing",34.0522342,-118.2436849
+"49","Los Angeles",0.094,92,"Better Weather IPA","American IPA","Golden Road Brewing",34.0522342,-118.2436849
+"50","Los Angeles",0.08,70,"Wolf Among Weeds IPA (2012)","American IPA","Golden Road Brewing",34.0522342,-118.2436849
+"51","Los Angeles",0.074,74,"2020 IPA","American IPA","Golden Road Brewing",34.0522342,-118.2436849
+"52","Los Angeles",0.068,65,"Heal the Bay IPA","American IPA","Golden Road Brewing",34.0522342,-118.2436849
+"53","Los Angeles",0.055,20,"Get Up Offa That Brown","American Brown Ale","Golden Road Brewing",34.0522342,-118.2436849
+"54","Los Angeles",0.08,70,"Burning Bush Smoked IPA","American IPA","Golden Road Brewing",34.0522342,-118.2436849
+"55","Los Angeles",0.046,15,"Golden Road Hefeweizen (2012)","Hefeweizen","Golden Road Brewing",34.0522342,-118.2436849
+"56","Los Angeles",0.058,35,"Saison Pamplemousse","Saison / Farmhouse Ale","Golden Road Brewing",34.0522342,-118.2436849
+"57","Los Angeles",0.059,60,"Point the Way IPA (2012)","American IPA","Golden Road Brewing",34.0522342,-118.2436849
+"58","Los Angeles",0.05,NA,"Cabrillo Kölsch","Kölsch","Golden Road Brewing",34.0522342,-118.2436849
+"59","Los Angeles",0.072,75,"Might As Well IPL","American Pale Lager","Golden Road Brewing",34.0522342,-118.2436849
+"60","Mammoth Lakes",0.042,NA,"High Country Pilsner (Current)","German Pilsener","Mammoth Brewing Company",37.648546,-118.972079
+"61","Mammoth Lakes",0.065,NA,"Epic IPA","American IPA","Mammoth Brewing Company",37.648546,-118.972079
+"62","Mammoth Lakes",0.042,NA,"Golden Trout Pilsner","German Pilsener","Mammoth Brewing Company",37.648546,-118.972079
+"63","Mammoth Lakes",0.045,NA,"Real McCoy Amber Ale (Current)","American Amber / Red Ale","Mammoth Brewing Company",37.648546,-118.972079
+"64","Mill Valley",0.076,65,"Groupe G","Belgian IPA","Headlands Brewing Company",37.9060368,-122.5449763
+"65","Mill Valley",0.088,77,"Hill 88 Double IPA","American Double / Imperial IPA","Headlands Brewing Company",37.9060368,-122.5449763
+"66","Mill Valley",0.062,40,"Pt. Bonita Rustic Lager","American Pale Lager","Headlands Brewing Company",37.9060368,-122.5449763
+"67","Redlands",0.046,17,"Orange Wheat","Fruit / Vegetable Beer","Hangar 24 Craft Brewery",34.0555693,-117.1825381
+"68","Redlands",0.043,14,"Hangar 24 Helles Lager","Munich Helles Lager","Hangar 24 Craft Brewery",34.0555693,-117.1825381
+"69","Sacramento",0.056,35,"1881 California Red Ale","American Amber / Red Ale","Ruhstaller Beer Company",38.5815719,-121.4943996
+"70","Sacramento",0.056,35,"1881 California Red","American Amber / Red Ale","Ruhstaller Beer Company",38.5815719,-121.4943996
+"71","Sacramento",0.073,55,"CAPT Black IPA","American Black Ale","Ruhstaller Beer Company",38.5815719,-121.4943996
+"72","Sacramento",0.073,55,"CAPT Black IPA","American Black Ale","Ruhstaller Beer Company",38.5815719,-121.4943996
+"73","Sacramento",0.048,42,"Ruhstaller's Gilt Edge Lager Beer","American Amber / Red Lager","Ruhstaller Beer Company",38.5815719,-121.4943996
+"74","San Diego",0.08,100,"Habitus (2014)","American Double / Imperial IPA","Mike Hess Brewing Company",32.7153292,-117.1572551
+"75","San Diego",0.075,85,"Solis","American IPA","Mike Hess Brewing Company",32.7153292,-117.1572551
+"76","San Diego",0.06,24,"Jucundus","Wheat Ale","Mike Hess Brewing Company",32.7153292,-117.1572551
+"77","San Diego",0.05,15,"Saint Archer White Ale","Witbier","Saint Archer Brewery",32.7153292,-117.1572551
+"78","San Diego",0.054,NA,"Sweet Georgia Brown","American Brown Ale","Monkey Paw Pub & Brewery",32.7153292,-117.1572551
+"79","San Diego",0.087,NA,"Rich Man's IIPA","American Double / Imperial IPA","Monkey Paw Pub & Brewery",32.7153292,-117.1572551
+"80","San Diego",0.058,NA,"Monkey Paw Oatmeal Pale Ale","American Pale Ale (APA)","Monkey Paw Pub & Brewery",32.7153292,-117.1572551
+"81","San Diego",0.065,115,"Blazing World","American Amber / Red Ale","Modern Times Beer",32.7153292,-117.1572551
+"82","San Diego",0.05,19,"Blacktop Blonde","American Blonde Ale","TailGate Beer",32.7153292,-117.1572551
+"83","San Diego",0.063,30,"Grazias","Cream Ale","Hess Brewing Company",32.7153292,-117.1572551
+"84","San Diego",0.07,NA,"Grapefruit Sculpin","American IPA","Ballast Point Brewing Company",32.7153292,-117.1572551
+"85","San Diego",0.08,100,"Habitus","American Double / Imperial IPA","Mike Hess Brewing Company",32.7153292,-117.1572551
+"86","San Diego",0.063,30,"Grazias","Cream Ale","Mike Hess Brewing Company",32.7153292,-117.1572551
+"87","San Diego",0.058,28,"Claritas","Kölsch","Mike Hess Brewing Company",32.7153292,-117.1572551
+"88","San Diego",0.048,44,"El Conquistador Extra Pale Ale","American Pale Ale (APA)","Mission Brewery",32.7153292,-117.1572551
+"89","San Diego",0.092,75,"Shipwrecked Double IPA","American Double / Imperial IPA","Mission Brewery",32.7153292,-117.1572551
+"90","San Diego",0.067,75,"Aurora","American Amber / Red Ale","Modern Times Beer",32.7153292,-117.1572551
+"91","San Diego",0.068,66,"Saint Archer IPA","American IPA","Saint Archer Brewery",32.7153292,-117.1572551
+"92","San Diego",0.052,40,"Saint Archer Pale Ale","American Pale Ale (APA)","Saint Archer Brewery",32.7153292,-117.1572551
+"93","San Diego",0.048,22,"Saint Archer Blonde","Kölsch","Saint Archer Brewery",32.7153292,-117.1572551
+"94","San Diego",0.05,44,"TailGate IPA","American IPA","TailGate Beer",32.7153292,-117.1572551
+"95","San Diego",0.049,28,"TailGate Hefeweizen","Hefeweizen","TailGate Beer",32.7153292,-117.1572551
+"96","San Diego",0.05,19,"Blacktop Blonde","American Blonde Ale","TailGate Beer",32.7153292,-117.1572551
+"97","San Diego",0.08,86,"Habitus IPA","American IPA","Hess Brewing Company",32.7153292,-117.1572551
+"98","San Diego",0.038,40,"Even Keel","American IPA","Ballast Point Brewing Company",32.7153292,-117.1572551
+"99","San Diego",0.052,23,"Ballast Point Pale Ale","Kölsch","Ballast Point Brewing Company",32.7153292,-117.1572551
+"100","San Diego",0.07,75,"Big Eye India Pale Ale","American IPA","Ballast Point Brewing Company",32.7153292,-117.1572551
+"101","San Diego",0.046,NA,"Longfin Lager","Munich Helles Lager","Ballast Point Brewing Company",32.7153292,-117.1572551
+"102","San Diego",0.07,70,"Sculpin IPA","American IPA","Ballast Point Brewing Company",32.7153292,-117.1572551
+"103","San Diego",0.052,50,"Oneida","American Pale Ale (APA)","Modern Times Beer",32.7153292,-117.1572551
+"104","San Diego",0.055,30,"Lomaland","Saison / Farmhouse Ale","Modern Times Beer",32.7153292,-117.1572551
+"105","San Diego",0.047,46,"Fortunate Islands","American Pale Wheat Ale","Modern Times Beer",32.7153292,-117.1572551
+"106","San Diego",0.058,40,"Black House","American Stout","Modern Times Beer",32.7153292,-117.1572551
+"107","San Diego",0.068,75,"Booming Rollers","American IPA","Modern Times Beer",32.7153292,-117.1572551
+"108","San Diego",0.099,85,"Ex Umbris Rye Imperial Stout","American Double / Imperial Stout","Hess Brewing Company",32.7153292,-117.1572551
+"109","San Diego",0.05,NA,"Cortez Gold","Belgian Pale Ale","Mission Brewery",32.7153292,-117.1572551
+"110","San Diego",0.049,28,"TailGate Hefeweizen","Hefeweizen","TailGate Beer",32.7153292,-117.1572551
+"111","San Diego",0.05,44,"TailGate IPA","American IPA","TailGate Beer",32.7153292,-117.1572551
+"112","San Diego",0.08,95,"Dodgy Knight Imperial IPA","American Double / Imperial IPA","TailGate Beer",32.7153292,-117.1572551
+"113","San Diego",0.068,66,"Mission IPA","American IPA","Mission Brewery",32.7153292,-117.1572551
+"114","San Diego",0.075,85,"City of the Sun","American IPA","Modern Times Beer",32.7153292,-117.1572551
+"115","San Diego",0.05,NA,"TailGate Saison","Saison / Farmhouse Ale","TailGate Beer",32.7153292,-117.1572551
+"116","San Francisco",0.044,42,"Bitter American (2011)","American Pale Ale (APA)","21st Amendment Brewery",37.7749295,-122.4194155
+"117","San Francisco",0.046,17,"KSA","Kölsch","Fort Point Beer Company",37.7749295,-122.4194155
+"118","San Francisco",0.079,45,"Fireside Chat (2010)","Winter Warmer","21st Amendment Brewery",37.7749295,-122.4194155
+"119","San Francisco",0.097,94,"Hop Crisis","American Double / Imperial IPA","21st Amendment Brewery",37.7749295,-122.4194155
+"120","San Francisco",0.056,NA,"Brotherhood Steam","California Common / Steam Beer","Anchor Brewing Company",37.7749295,-122.4194155
+"121","San Francisco",0.05,NA,"Atom Splitter Pale Ale","American Pale Ale (APA)","Pine Street Brewery",37.7749295,-122.4194155
+"122","San Francisco",0.082,NA,"He Said Baltic-Style Porter","Baltic Porter","21st Amendment Brewery",37.7749295,-122.4194155
+"123","San Francisco",0.079,45,"Fireside Chat","Winter Warmer","21st Amendment Brewery",37.7749295,-122.4194155
+"124","San Francisco",0.068,65,"Back in Black","American Black Ale","21st Amendment Brewery",37.7749295,-122.4194155
+"125","San Francisco",0.079,NA,"Marooned On Hog Island","American Stout","21st Amendment Brewery",37.7749295,-122.4194155
+"126","San Francisco",0.07,65,"Brew Free! or Die IPA","American IPA","21st Amendment Brewery",37.7749295,-122.4194155
+"127","San Francisco",0.082,NA,"He Said Belgian-Style Tripel","Tripel","21st Amendment Brewery",37.7749295,-122.4194155
+"128","San Francisco",0.047,19,"Park","American Pale Wheat Ale","Fort Point Beer Company",37.7749295,-122.4194155
+"129","San Francisco",0.056,16,"Westfalia","American Amber / Red Ale","Fort Point Beer Company",37.7749295,-122.4194155
+"130","San Francisco",0.07,70,"21st Amendment IPA (2006)","American IPA","21st Amendment Brewery",37.7749295,-122.4194155
+"131","San Francisco",0.063,42,"Villager","American IPA","Fort Point Beer Company",37.7749295,-122.4194155
+"132","San Francisco",0.07,70,"Brew Free! or Die IPA (2009)","American IPA","21st Amendment Brewery",37.7749295,-122.4194155
+"133","San Francisco",0.085,52,"Special Edition: Allies Win The War!","English Strong Ale","21st Amendment Brewery",37.7749295,-122.4194155
+"134","San Francisco",0.05,NA,"Black Bay Milk Stout","Milk / Sweet Stout","Pine Street Brewery",37.7749295,-122.4194155
+"135","San Francisco",0.059,NA,"Liberty Ale","American IPA","Anchor Brewing Company",37.7749295,-122.4194155
+"136","San Francisco",0.049,17,"Hell or High Watermelon Wheat","Fruit / Vegetable Beer","21st Amendment Brewery",37.7749295,-122.4194155
+"137","San Francisco",0.099,92,"Lower De Boom","American Barleywine","21st Amendment Brewery",37.7749295,-122.4194155
+"138","San Francisco",0.083,35,"Monk's Blood","Belgian Dark Ale","21st Amendment Brewery",37.7749295,-122.4194155
+"139","San Francisco",0.065,NA,"IPA","American IPA","Anchor Brewing Company",37.7749295,-122.4194155
+"140","San Francisco",0.049,17,"Hell or High Watermelon Wheat (2009)","Fruit / Vegetable Beer","21st Amendment Brewery",37.7749295,-122.4194155
+"141","San Francisco",0.049,17,"Hell or High Watermelon Wheat (2009)","Fruit / Vegetable Beer","21st Amendment Brewery",37.7749295,-122.4194155
+"142","San Francisco",0.049,17,"21st Amendment Watermelon Wheat Beer (2006)","Fruit / Vegetable Beer","21st Amendment Brewery",37.7749295,-122.4194155
+"143","San Francisco",0.045,NA,"Summer Wheat","American Pale Wheat Ale","Anchor Brewing Company",37.7749295,-122.4194155
+"144","San Francisco",0.049,NA,"California Lager","American Amber / Red Lager","Anchor Brewing Company",37.7749295,-122.4194155
+"145","San Francisco",0.044,42,"Bitter American","American Pale Ale (APA)","21st Amendment Brewery",37.7749295,-122.4194155
+"146","San Francisco",0.07,70,"Brew Free! or Die IPA (2008)","American IPA","21st Amendment Brewery",37.7749295,-122.4194155
+"147","San Francisco",0.047,35,"Baby Daddy Session IPA","American IPA","Speakasy Ales & Lagers",37.7749295,-122.4194155
+"148","San Luis Obispo",0.072,85,"Lucky Day IPA","American IPA","Central Coast Brewing Company",35.2827524,-120.6596156
+"149","San Luis Obispo",0.051,15,"Chai Ale","Herbed / Spiced Beer","Central Coast Brewing Company",35.2827524,-120.6596156
+"150","San Luis Obispo",0.095,99,"Terrace Hill Double IPA","American Double / Imperial IPA","Central Coast Brewing Company",35.2827524,-120.6596156
+"151","San Luis Obispo",0.075,77,"Catch 23","American Black Ale","Central Coast Brewing Company",35.2827524,-120.6596156
+"152","Santa Cruz",0.085,NA,"Siamese twin","Dubbel","Uncommon Brewers",36.9741171,-122.0307963
+"153","Santa Cruz",0.078,NA,"Baltic Porter","Baltic Porter","Uncommon Brewers",36.9741171,-122.0307963
+"154","Santa Cruz",0.07,NA,"Casinos IPA","English India Pale Ale (IPA)","Santa Cruz Mountain Brewing",36.9741171,-122.0307963
+"155","Santa Cruz",0.064,NA,"Golden State Ale","Belgian Pale Ale","Uncommon Brewers",36.9741171,-122.0307963
+"156","Santa Cruz",0.054,NA,"Dread Brown Ale","American Brown Ale","Santa Cruz Mountain Brewing",36.9741171,-122.0307963
+"157","Santa Cruz",0.068,NA,"Bacon Brown Ale","American Brown Ale","Uncommon Brewers",36.9741171,-122.0307963
+"158","Santa Cruz",0.074,60,"Blur India Pale Ale","American IPA","Seabright Brewery",36.9741171,-122.0307963
+"159","Santa Cruz",0.089,88,"Giant DIPA","American Double / Imperial IPA","Santa Cruz Mountain Brewing",36.9741171,-122.0307963
+"160","Santa Cruz",0.001,NA,"Scotty K NA","Low Alcohol Beer","Uncommon Brewers",36.9741171,-122.0307963
+"161","Santee",0.06,25,"Riverwalk Blonde Ale","American Blonde Ale","Manzanita Brewing Company",32.8383828,-116.9739167
+"162","Santee",0.095,49,"Gillespie Brown Ale","American Brown Ale","Manzanita Brewing Company",32.8383828,-116.9739167
+"163","Santee",0.099,93,"Chaotic Double IPA","American Double / Imperial IPA","Manzanita Brewing Company",32.8383828,-116.9739167
+"164","Santee",0.08,88,"Manzanita IPA","American IPA","Manzanita Brewing Company",32.8383828,-116.9739167
+"165","Santee",0.066,44,"Manzanita Pale Ale","American Pale Ale (APA)","Manzanita Brewing Company",32.8383828,-116.9739167
+"166","South San Francisco",0.052,10,"Mo's Gose","Gose","Armstrong Brewing Company",37.654656,-122.4077498
+"167","Temecula",0.058,44,"Aftermath Pale Ale","American Pale Ale (APA)","Black Market Brewing Company",33.4936391,-117.1483648
+"168","Temecula",0.05,8,"Black Market Hefeweizen","Hefeweizen","Black Market Brewing Company",33.4936391,-117.1483648
+"169","Temecula",0.05,16,"Blood Orange Wit","Witbier","Refuge Brewery",33.4936391,-117.1483648
+"170","Temecula",0.045,16,"Deception","American Blonde Ale","Black Market Brewing Company",33.4936391,-117.1483648
+"171","Temecula",0.075,35,"Blackmarket Rye IPA","American IPA","Black Market Brewing Company",33.4936391,-117.1483648
+"172","Torrance",0.069,34,"Grandma's Pecan","English Brown Ale","The Dudes' Brewing Company",33.8358492,-118.3406288
+"173","Torrance",0.05,NA,"South Bay Session IPA","American IPA","The Dudes' Brewing Company",33.8358492,-118.3406288
+"174","Torrance",0.052,35,"Surfrider","American Pale Ale (APA)","The Dudes' Brewing Company",33.8358492,-118.3406288
+"175","Torrance",0.099,101,"Double Trunk","American Double / Imperial IPA","The Dudes' Brewing Company",33.8358492,-118.3406288
+"176","Torrance",0.055,NA,"Kolschtal Eddy","Kölsch","The Dudes' Brewing Company",33.8358492,-118.3406288
+"177","Ukiah",0.055,NA,"Pilsner Ukiah","German Pilsener","Ukiah Brewing Company",39.1501709,-123.2077831
+"178","Vista",0.052,21,"Cali Creamin'","Cream Ale","Mother Earth Brew Company",33.2000368,-117.2425355
