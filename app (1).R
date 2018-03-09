@@ -26,11 +26,12 @@ ui <- fluidPage(
     
         selectInput("type", 
                     "Beer Preference", 
-                    choices = unique(tot_beer$style)),
+                    choices = unique(tot_beer$style),
+                    selected = "American IPA"),
 
-        checkboxGroupInput("loc", label = "State",
+        radioButtons("loc", label = "State",
                       choices = unique(tot_beer$state),
-                      FALSE),
+                      selected = "ME"),
         verbatimTextOutput("value")),
       
     
