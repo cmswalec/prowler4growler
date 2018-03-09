@@ -1,0 +1,186 @@
+"","state","city","abv","ibu","name","style","brew_name","latitude","longitude"
+"1","CT","Bloomfield",0.051,11,"Watermelon Ale","Fruit / Vegetable Beer","Thomas Hooker Brewing Company",41.826488,-72.7300945
+"2","CT","Bloomfield",0.07,NA,"Misty Mountain IPA","American IPA","Back East Brewing Company",41.826488,-72.7300945
+"3","CT","Bloomfield",0.086,NA,"Palate Mallet","American Double / Imperial IPA","Back East Brewing Company",41.826488,-72.7300945
+"4","CT","Bloomfield",0.06,NA,"Back East Porter","American Porter","Back East Brewing Company",41.826488,-72.7300945
+"5","CT","Bloomfield",0.049,NA,"Back East Golden Ale","American Blonde Ale","Back East Brewing Company",41.826488,-72.7300945
+"6","CT","Bloomfield",0.05,NA,"Back East Ale","American Amber / Red Ale","Back East Brewing Company",41.826488,-72.7300945
+"7","CT","Pawcatuck",0.038,NA,"Chester's Beer (2005)","American Pale Lager","Cottrell Brewing",41.3773218,-71.8336802
+"8","CT","Stamford",0.07,40,"Pursuit","American IPA","Half Full Brewery",41.0534302,-73.5387341
+"9","CT","Stamford",0.052,18,"Half Full Bright Ale","American Blonde Ale","Half Full Brewery",41.0534302,-73.5387341
+"10","CT","Stratford",0.05,NA,"No Limits Hefeweizen","Hefeweizen","Two Roads Brewing Company",41.1845415,-73.1331651
+"11","CT","Stratford",0.06,NA,"Honeyspot Road White IPA","American White IPA","Two Roads Brewing Company",41.1845415,-73.1331651
+"12","CT","Stratford",0.072,NA,"Road 2 Ruin Double IPA","American Double / Imperial IPA","Two Roads Brewing Company",41.1845415,-73.1331651
+"13","CT","Stratford",0.048,NA,"Workers Comp Saison","Saison / Farmhouse Ale","Two Roads Brewing Company",41.1845415,-73.1331651
+"14","CT","Stratford",0.05,NA,"Ol' Factory Pils","German Pilsener","Two Roads Brewing Company",41.1845415,-73.1331651
+"15","CT","Wolcott",0.068,NA,"Black Hop IPA","American Black Ale","Shebeen Brewing Company",41.6023196,-72.9867718
+"16","CT","Woodbridge",0.034,6,"Weiss Trash Culture","Berliner Weissbier","New England Brewing Company",41.352597,-73.0084385
+"17","CT","Woodbridge",0.062,NA,"Sea Hag IPA","American IPA","New England Brewing Company",41.352597,-73.0084385
+"18","CT","Woodbridge",0.05,NA,"Elm City Pilsner","American Pilsner","New England Brewing Company",41.352597,-73.0084385
+"19","CT","Woodbridge",0.05,NA,"Atlantic Amber Ale (2004)","American Amber / Red Ale","New England Brewing Company",41.352597,-73.0084385
+"20","CT","Woodbridge",0.09,NA,"668 Neighbor of the Beast12 oz.","Belgian Pale Ale","New England Brewing Company",41.352597,-73.0084385
+"21","CT","Woodbridge",0.088,85,"Gandhi-Bot Double IPA (12 oz.)","American Double / Imperial IPA","New England Brewing Company",41.352597,-73.0084385
+"22","CT","Woodbridge",0.09,NA,"668 Neighbor of the Beast (16 oz.) (2010)","Belgian Pale Ale","New England Brewing Company",41.352597,-73.0084385
+"23","CT","Woodbridge",0.088,85,"Gandhi-Bot Double IPA (16 oz.) (2010)","American Double / Imperial IPA","New England Brewing Company",41.352597,-73.0084385
+"24","CT","Woodbridge",0.05,NA,"Elm City Lager (2007)","American Pilsner","New England Brewing Company",41.352597,-73.0084385
+"25","CT","Woodbridge",0.05,NA,"Atlantic Amber Ale (2007)","American Amber / Red Ale","New England Brewing Company",41.352597,-73.0084385
+"26","CT","Woodbridge",0.062,NA,"Sea Hag IPA (Current)","American IPA","New England Brewing Company",41.352597,-73.0084385
+"27","MA","Boston",0.052,15,"UFO Gingerland","Herbed / Spiced Beer","Harpoon Brewery",42.3584308,-71.0597732
+"28","MA","Boston",0.05,28,"Harpoon Summer Beer","Kölsch","Harpoon Brewery",42.3584308,-71.0597732
+"29","MA","Boston",0.059,42,"Harpoon IPA","American IPA","Harpoon Brewery",42.3584308,-71.0597732
+"30","MA","Boston",0.055,30,"Harpoon Octoberfest","Märzen / Oktoberfest","Harpoon Brewery",42.3584308,-71.0597732
+"31","MA","Boston",0.059,42,"Harpoon IPA (2012)","American IPA","Harpoon Brewery",42.3584308,-71.0597732
+"32","MA","Boston",0.05,28,"Harpoon Summer Beer (2012)","Kölsch","Harpoon Brewery",42.3584308,-71.0597732
+"33","MA","Boston",0.048,10,"UFO White","American Pale Wheat Ale","Harpoon Brewery",42.3584308,-71.0597732
+"34","MA","Boston",0.05,28,"Harpoon Summer Beer (2010)","Kölsch","Harpoon Brewery",42.3584308,-71.0597732
+"35","MA","Boston",0.059,42,"Harpoon IPA (2010)","American IPA","Harpoon Brewery",42.3584308,-71.0597732
+"36","MA","Boston",0.049,30,"Boston Lager","Vienna Lager","Boston Beer Company",42.3584308,-71.0597732
+"37","MA","Boston",0.045,8,"Porch Rocker","Radler","Boston Beer Company",42.3584308,-71.0597732
+"38","MA","Boston",0.062,45,"The Long Thaw White IPA","American White IPA","Harpoon Brewery",42.3584308,-71.0597732
+"39","MA","Boston",0.048,NA,"Honey Cider","Cider","Harpoon Brewery",42.3584308,-71.0597732
+"40","MA","Boston",0.056,NA,"Samuel Adams Winter Lager","Bock","Boston Beer Company",42.3584308,-71.0597732
+"41","MA","Boston",0.049,30,"Boston Lager","Vienna Lager","Boston Beer Company",42.3584308,-71.0597732
+"42","MA","Boston",0.059,20,"UFO Pumpkin","Pumpkin Ale","Harpoon Brewery",42.3584308,-71.0597732
+"43","MA","Boston",0.055,NA,"Cold Snap","Witbier","Boston Beer Company",42.3584308,-71.0597732
+"44","MA","Boston",0.053,7,"Samuel Adams Summer Ale","American Pale Wheat Ale","Boston Beer Company",42.3584308,-71.0597732
+"45","MA","Boston",0.049,30,"Boston Lager","Vienna Lager","Boston Beer Company",42.3584308,-71.0597732
+"46","MA","Boston",0.053,15,"Samuel Adams Octoberfest","Märzen / Oktoberfest","Boston Beer Company",42.3584308,-71.0597732
+"47","MA","Boston",0.065,45,"Rebel IPA","American IPA","Boston Beer Company",42.3584308,-71.0597732
+"48","MA","Cambridge",0.065,NA,"Flower Child (2014)","American IPA","Cambridge Brewing Company",42.375097,-71.1056079
+"49","MA","Cambridge",0.05,NA,"Remain in Light","American Pilsner","Cambridge Brewing Company",42.375097,-71.1056079
+"50","MA","Canton",0.08,80,"Quarter Mile Double IPA","American Double / Imperial IPA","Blue Hills Brewery",42.1584324,-71.1447732
+"51","MA","Everett",0.055,NA,"Marblehead","American Amber / Red Ale","Night Shift Brewing",42.40843,-71.0536625
+"52","MA","Framingham",0.072,80,"Excess IPL","American India Pale Lager","Jack's Abby Craft Lagers",42.2792625,-71.416172
+"53","MA","Framingham",0.067,65,"Hoponius Union","American India Pale Lager","Jack's Abby Craft Lagers",42.2792625,-71.416172
+"54","MA","Framingham",0.052,18,"House Lager","Keller Bier / Zwickel Bier","Jack's Abby Craft Lagers",42.2792625,-71.416172
+"55","MA","Framingham",0.048,15,"Leisure Time","American Pale Lager","Jack's Abby Craft Lagers",42.2792625,-71.416172
+"56","MA","Framingham",0.049,45,"Calyptra","American India Pale Lager","Jack's Abby Craft Lagers",42.2792625,-71.416172
+"57","MA","Gloucester",0.099,43,"Imperial Pumpkin Stout","Pumpkin Ale","Cape Ann Brewing Company",42.6159286,-70.6619888
+"58","MA","Gloucester",0.09,130,"Dead-Eye DIPA","American Double / Imperial IPA","Cape Ann Brewing Company",42.6159286,-70.6619888
+"59","MA","Gloucester",0.055,30,"Fisherman's Brew","American Amber / Red Ale","Cape Ann Brewing Company",42.6159286,-70.6619888
+"60","MA","Gloucester",0.054,35,"Fisherman's Pils","German Pilsener","Cape Ann Brewing Company",42.6159286,-70.6619888
+"61","MA","Gloucester",0.055,64,"Fisherman's IPA","American IPA","Cape Ann Brewing Company",42.6159286,-70.6619888
+"62","MA","Hyannis",0.049,10,"Beach Blonde","American Blonde Ale","Cape Cod Beer",41.6528887,-70.2827989
+"63","MA","Hyannis",0.055,35,"Cape Cod Red","American Amber / Red Ale","Cape Cod Beer",41.6528887,-70.2827989
+"64","MA","Ipswich",0.049,NA,"Summer Ale","American Blonde Ale","Ipswich Ale Brewery",42.6792602,-70.8411612
+"65","MA","Ipswich",0.04,NA,"Notch Session Pils","Czech Pilsener","Notch Brewing Company",42.6792602,-70.8411612
+"66","MA","Ipswich",0.043,NA,"Left of the Dial IPA","American IPA","Notch Brewing Company",42.6792602,-70.8411612
+"67","MA","Leominster",0.049,NA,"Cranberry Blend","Cider","Downeast Cider House",42.5250906,-71.759794
+"68","MA","Leominster",0.051,NA,"Orignal Blend","Cider","Downeast Cider House",42.5250906,-71.759794
+"69","MA","Lowell",0.05,10,"Watermelon Ale","Fruit / Vegetable Beer","Beer Works Brewery",42.6334247,-71.3161718
+"70","MA","Lowell",0.058,45,"Fenway American Pale Ale","American Pale Ale (APA)","Beer Works Brewery",42.6334247,-71.3161718
+"71","MA","Lowell",0.068,85,"Back Bay IPA","American IPA","Beer Works Brewery",42.6334247,-71.3161718
+"72","MA","Lowell",0.048,16,"Bunker Hill Blueberry Ale","Other","Beer Works Brewery",42.6334247,-71.3161718
+"73","MA","Marlborough",0.05,NA,"Archer's Ale (2004)","English Pale Ale","Sherwood Forest Brewers",42.3459271,-71.5522874
+"74","MA","Nantucket",0.048,NA,"Shark Tracker Light lager","Light Lager","Cisco Brewers",41.2834563,-70.0994605
+"75","MA","Nantucket",0.06,NA,"Pumple Drumkin","Pumpkin Ale","Cisco Brewers",41.2834563,-70.0994605
+"76","MA","Nantucket",0.065,NA,"Indie Pale Ale","American IPA","Cisco Brewers",41.2834563,-70.0994605
+"77","MA","Nantucket",0.038,NA,"Sankaty Light Lager","Light Lager","Cisco Brewers",41.2834563,-70.0994605
+"78","MA","Nantucket",0.045,NA,"Grey Lady","Witbier","Cisco Brewers",41.2834563,-70.0994605
+"79","MA","Nantucket",0.062,NA,"Summer of Lager","Munich Helles Lager","Cisco Brewers",41.2834563,-70.0994605
+"80","MA","Nantucket",0.056,NA,"Whale's Tale Pale Ale","English Pale Ale","Cisco Brewers",41.2834563,-70.0994605
+"81","MA","Newburyport",0.072,NA,"Green Head IPA","American IPA","Newburyport Brewing Company",42.8125913,-70.8772751
+"82","MA","Newburyport",0.054,NA,"Plum Island Belgian White","Witbier","Newburyport Brewing Company",42.8125913,-70.8772751
+"83","MA","Newburyport",0.055,NA,"Newburyport Pale Ale","American Pale Ale (APA)","Newburyport Brewing Company",42.8125913,-70.8772751
+"84","MA","Sheffield",0.07,NA,"Big Elm IPA","American IPA","Big Elm Brewing",42.1103686,-73.3551148
+"85","MA","Sheffield",0.065,NA,"Gerry Dog Stout","American Stout","Big Elm Brewing",42.1103686,-73.3551148
+"86","MA","Sheffield",0.06,NA,"413 Farmhouse Ale","Saison / Farmhouse Ale","Big Elm Brewing",42.1103686,-73.3551148
+"87","MA","South Deerfield",0.055,40,"Lost Sailor IPA","English India Pale Ale (IPA)","Berkshire Brewing Company",42.4773097,-72.6078667
+"88","MA","South Deerfield",0.053,20,"Steel Rail Extra Pale Ale","American Pale Ale (APA)","Berkshire Brewing Company",42.4773097,-72.6078667
+"89","MA","Westfield",0.057,22,"Westfield Octoberfest","Märzen / Oktoberfest","Westfield River Brewing Company",42.1250929,-72.749538
+"90","MA","Westfield",0.052,NA,"Pop's Old Fashioned Lager","American Amber / Red Lager","Westfield River Brewing Company",42.1250929,-72.749538
+"91","MA","Westfield",0.058,55,"Charlie in the Rye","American IPA","Westfield River Brewing Company",42.1250929,-72.749538
+"92","MA","Westminster",0.045,10,"Wachusett Blueberry Ale","Fruit / Vegetable Beer","Wachusett Brewing Company",42.5459227,-71.9106308
+"93","MA","Westminster",0.06,55,"Green Monsta IPA","American IPA","Wachusett Brewing Company",42.5459227,-71.9106308
+"94","MA","Westminster",0.04,37,"Wachusett Light IPA (2013)","American IPA","Wachusett Brewing Company",42.5459227,-71.9106308
+"95","MA","Westminster",0.052,20,"Pumpkan","Pumpkin Ale","Wachusett Brewing Company",42.5459227,-71.9106308
+"96","MA","Westminster",0.04,37,"Wachusett Light IPA","American IPA","Wachusett Brewing Company",42.5459227,-71.9106308
+"97","MA","Westminster",0.06,55,"Green Monsta IPA","American IPA","Wachusett Brewing Company",42.5459227,-71.9106308
+"98","MA","Westminster",0.056,50,"Wachusett IPA","American IPA","Wachusett Brewing Company",42.5459227,-71.9106308
+"99","MA","Westminster",0.047,NA,"Strawberry White","Witbier","Wachusett Brewing Company",42.5459227,-71.9106308
+"100","MA","Westminster",0.085,85,"Larry Imperial IPA","American Double / Imperial IPA","Wachusett Brewing Company",42.5459227,-71.9106308
+"101","MA","Westminster",0.047,NA,"Wachusett Summer","American Pale Wheat Ale","Wachusett Brewing Company",42.5459227,-71.9106308
+"102","MA","Westminster",0.051,17,"Country Pale Ale","English Pale Ale","Wachusett Brewing Company",42.5459227,-71.9106308
+"103","MA","Williamsburg",0.045,NA,"All Nighter Ale","Extra Special / Strong Bitter (ESB)","Banner Beer Company",42.3931434,-72.7300917
+"104","MA","Williamsburg",0.045,20,"Banner American Rye","Rye Beer","Banner Beer Company",42.3931434,-72.7300917
+"105","MA","Williamsburg",0.035,45,"Banner American Ale","American Amber / Red Ale","Banner Beer Company",42.3931434,-72.7300917
+"106","MA","Worcester",0.065,69,"Be Hoppy IPA","American IPA","Wormtown Brewery",42.2625932,-71.8022934
+"107","RI","Newport",0.065,75,"Newport Storm IPA","American IPA","Coastal Extreme Brewing Company",41.4901024,-71.3128285
+"108","RI","Newport",0.046,11,"Rhode Island Blueberry","Kölsch","Coastal Extreme Brewing Company",41.4901024,-71.3128285
+"109","RI","Newport",0.052,24,"Hurricane Amber Ale (2004)","American Amber / Red Ale","Coastal Extreme Brewing Company",41.4901024,-71.3128285
+"110","RI","Newport",0.052,24,"Hurricane Amber Ale","American Amber / Red Ale","Coastal Extreme Brewing Company",41.4901024,-71.3128285
+"111","RI","Pawtucket",0.045,NA,"Barstool American Golden Ale","American Blonde Ale","Foolproof Brewing Company",41.878711,-71.3825558
+"112","RI","Pawtucket",0.078,NA,"La Ferme Urbaine Farmhouse Ale","Saison / Farmhouse Ale","Foolproof Brewing Company",41.878711,-71.3825558
+"113","RI","Pawtucket",0.06,NA,"Backyahd IPA","American IPA","Foolproof Brewing Company",41.878711,-71.3825558
+"114","RI","Pawtucket",0.065,NA,"Raincloud Robust Porter","American Porter","Foolproof Brewing Company",41.878711,-71.3825558
+"115","RI","Providence",0.052,30,"Bohemian Pils","American Pilsner","Narragansett Brewing Company",41.8239891,-71.4128343
+"116","RI","Providence",0.037,10,"Gansett Light","Light Lager","Narragansett Brewing Company",41.8239891,-71.4128343
+"117","RI","Providence",0.05,22,"Narragansett Cream Ale","Cream Ale","Narragansett Brewing Company",41.8239891,-71.4128343
+"118","RI","Providence",0.053,30,"Autocrat Coffee Milk Stout","Milk / Sweet Stout","Narragansett Brewing Company",41.8239891,-71.4128343
+"119","RI","Providence",0.086,35,"Narragansett Bohemian Pilsner","German Pilsener","Narragansett Brewing Company",41.8239891,-71.4128343
+"120","RI","Providence",0.042,24,"Narragansett Summer Ale","American Pale Wheat Ale","Narragansett Brewing Company",41.8239891,-71.4128343
+"121","RI","Providence",0.055,15,"Narragansett Fest Lager","Märzen / Oktoberfest","Narragansett Brewing Company",41.8239891,-71.4128343
+"122","RI","Providence",0.042,24,"Narragansett Summer Ale","American Pale Wheat Ale","Narragansett Brewing Company",41.8239891,-71.4128343
+"123","RI","Providence",0.07,22,"Narragansett Porter","American Porter","Narragansett Brewing Company",41.8239891,-71.4128343
+"124","RI","Providence",0.065,32,"Narragansett Bock","Bock","Narragansett Brewing Company",41.8239891,-71.4128343
+"125","RI","Westerly",0.058,NA,"Autumn Winds Fest Beer","Märzen / Oktoberfest","Grey Sail Brewing Company",41.3775996,-71.8272911
+"126","RI","Westerly",0.085,69,"Captain's Daughter","American Double / Imperial IPA","Grey Sail Brewing Company",41.3775996,-71.8272911
+"127","RI","Westerly",0.04,20,"Hazy Day Belgian-Style Wit","Witbier","Grey Sail Brewing of Rhode Island",41.3775996,-71.8272911
+"128","RI","Westerly",0.055,NA,"Bring Back the Beach Blonde Ale","American Blonde Ale","Grey Sail Brewing of Rhode Island",41.3775996,-71.8272911
+"129","RI","Westerly",0.058,NA,"Autumn Winds","Märzen / Oktoberfest","Grey Sail Brewing of Rhode Island",41.3775996,-71.8272911
+"130","RI","Westerly",0.06,54,"Flying Jenny Extra Pale Ale","American Pale Ale (APA)","Grey Sail Brewing of Rhode Island",41.3775996,-71.8272911
+"131","RI","Westerly",0.049,22,"Flagship Ale","Cream Ale","Grey Sail Brewing of Rhode Island",41.3775996,-71.8272911
+"132","RI","Westerly",0.06,34,"Leaning Chimney Smoked Porter","American Porter","Grey Sail Brewing of Rhode Island",41.3775996,-71.8272911
+"133","RI","Westerly",0.06,54,"Flying Jenny Extra Pale Ale (2012)","American Pale Ale (APA)","Grey Sail Brewing of Rhode Island",41.3775996,-71.8272911
+"134","VT","Burlington",0.046,45,"Just IPA","American IPA","The Just Beer Project",44.4758825,-73.212072
+"135","VT","Burlington",0.044,NA,"Curious Traveler Shandy","Shandy","The Traveler Beer Company",44.4758825,-73.212072
+"136","VT","Middlebury",0.055,45,"Fresh Slice White IPA","American White IPA","Otter Creek Brewing",44.0153371,-73.16734
+"137","VT","Middlebury",0.05,NA,"Woodchuck Amber Hard Cider","Cider","Woodchuck Hard Cider",44.0153371,-73.16734
+"138","VT","Shelburne",0.081,NA,"Mastermind","American Double / Imperial IPA","Fiddlehead Brewing Company",44.3806065,-73.227626
+"139","VT","Shelburne",0.082,80,"Second Fiddle","American Double / Imperial IPA","Fiddlehead Brewing Company",44.3806065,-73.227626
+"140","VT","Shelburne",0.055,30,"Hodad Porter","American Porter","Fiddlehead Brewing Company",44.3806065,-73.227626
+"141","VT","Shelburne",0.082,NA,"Hyzer Flip","American Double / Imperial IPA","Fiddlehead Brewing Company",44.3806065,-73.227626
+"142","VT","South Burlington",0.051,20,"#9","Fruit / Vegetable Beer","Magic Hat Brewing Company",44.4669941,-73.1709604
+"143","VT","South Burlington",0.051,20,"#9","Fruit / Vegetable Beer","Magic Hat Brewing Company",44.4669941,-73.1709604
+"144","VT","South Burlington",0.055,13,"Elder Betty","Hefeweizen","Magic Hat Brewing Company",44.4669941,-73.1709604
+"145","VT","Waterbury",0.055,55,"Overgrown American Pale Ale","American Pale Ale (APA)","Otter Creek Brewing",44.3378343,-72.756229
+"146","VT","Waterbury",0.06,NA,"Petit Mutant","American Wild Ale","The Alchemist",44.3378343,-72.756229
+"147","VT","Waterbury",0.096,NA,"The Crusher","American Double / Imperial IPA","The Alchemist",44.3378343,-72.756229
+"148","VT","Waterbury",0.08,NA,"Beelzebub","American Double / Imperial Stout","The Alchemist",44.3378343,-72.756229
+"149","VT","Waterbury",0.07,NA,"Focal Banger","American IPA","The Alchemist",44.3378343,-72.756229
+"150","VT","Waterbury",0.08,120,"Heady Topper","American Double / Imperial IPA","The Alchemist",44.3378343,-72.756229
+"151","VT","Waterbury",0.08,120,"Heady Topper","American Double / Imperial IPA","The Alchemist",44.3378343,-72.756229
+"152","NH","Hooksett",0.055,NA,"Raspberry Berliner Weisse","Berliner Weissbier","White Birch Brewing",43.0967495,-71.4650684
+"153","NH","Hooksett",0.05,NA,"Hop Session","American IPA","White Birch Brewing",43.0967495,-71.4650684
+"154","NH","Hooksett",0.055,NA,"Blueberry Berliner Weisse","Berliner Weissbier","White Birch Brewing",43.0967495,-71.4650684
+"155","NH","Hooksett",0.055,NA,"Berliner Weisse","Berliner Weissbier","White Birch Brewing",43.0967495,-71.4650684
+"156","NH","North Conway",0.055,NA,"Boneshaker Brown Ale","English Brown Ale","Moat Mountain Smoke House & Brew...",44.0536805,-71.1284041
+"157","NH","North Conway",0.056,NA,"Iron Mike Pale Ale","American Pale Ale (APA)","Moat Mountain Smoke House & Brew...",44.0536805,-71.1284041
+"158","NH","North Woodstock",0.065,82,"4000 Footer IPA","American IPA","Woodstock Inn, Station & Brewery",44.0303449,-71.6859143
+"159","NH","North Woodstock",0.028,15,"Summer Brew","American Pilsner","Woodstock Inn, Station & Brewery",44.0303449,-71.6859143
+"160","ME","Belfast",0.072,NA,"Toughcats IPA","American IPA","Marshall Wharf Brewing Company",44.4259092,-69.0064234
+"161","ME","Belfast",0.05,NA,"Tug Pale Ale","American Pale Ale (APA)","Marshall Wharf Brewing Company",44.4259092,-69.0064234
+"162","ME","Belfast",0.099,NA,"Sexy Chaos","Russian Imperial Stout","Marshall Wharf Brewing Company",44.4259092,-69.0064234
+"163","ME","Belfast",0.063,NA,"Ace Hole American Pale Ale","American Pale Ale (APA)","Marshall Wharf Brewing Company",44.4259092,-69.0064234
+"164","ME","Belfast",0.097,NA,"Cant Dog Imperial Pale Ale","American Double / Imperial IPA","Marshall Wharf Brewing Company",44.4259092,-69.0064234
+"165","ME","Lewiston",0.053,NA,"Tarnation California-Style Lager","California Common / Steam Beer","Baxter Brewing Company",44.100351,-70.2147764
+"166","ME","Lewiston",0.07,42,"On the Count of 3 (2015)","Hefeweizen","Baxter Brewing Company",44.100351,-70.2147764
+"167","ME","Lewiston",0.047,NA,"Summer Swelter","American Pale Wheat Ale","Baxter Brewing Company",44.100351,-70.2147764
+"168","ME","Lewiston",0.068,NA,"Phantom Punch Winter Stout","Foreign / Export Stout","Baxter Brewing Company",44.100351,-70.2147764
+"169","ME","Lewiston",0.066,NA,"Hayride Autumn Ale","Rye Beer","Baxter Brewing Company",44.100351,-70.2147764
+"170","ME","Lewiston",0.047,NA,"Celsius Summer Ale (2012)","American Pale Wheat Ale","Baxter Brewing Company",44.100351,-70.2147764
+"171","ME","Lewiston",0.055,35,"Amber Road","American Amber / Red Ale","Baxter Brewing Company",44.100351,-70.2147764
+"172","ME","Lewiston",0.049,28,"Pamola Xtra Pale Ale","American Pale Ale (APA)","Baxter Brewing Company",44.100351,-70.2147764
+"173","ME","Lewiston",0.069,69,"Stowaway IPA","American IPA","Baxter Brewing Company",44.100351,-70.2147764
+"174","ME","Portland",0.035,NA,"Gose","Gose","Rising Tide Brewing Company",43.661471,-70.2553259
+"175","ME","Portland",0.043,NA,"Maine Island Trail Ale","American Pale Ale (APA)","Rising Tide Brewing Company",43.661471,-70.2553259
+"176","ME","Portland",0.046,NA,"Fresh Cut Pilsner","American Pilsner","Peak Organic Brewing Company",43.661471,-70.2553259
+"177","ME","Portland",0.05,61,"Summer Session Ale","American Pale Wheat Ale","Peak Organic Brewing Company",43.661471,-70.2553259
+"178","ME","Portland",0.069,65,"Monkey Fist IPA","American IPA","Shipyard Brewing Company",43.661471,-70.2553259
+"179","ME","Portland",0.051,NA,"Shipyard Summer Ale","American Pale Wheat Ale","Shipyard Brewing Company",43.661471,-70.2553259
+"180","ME","Portland",0.045,NA,"Geary's Pale Ale","English Pale Ale","D.L. Geary Brewing Company",43.661471,-70.2553259
+"181","ME","Portland",0.06,NA,"Geary's Summer Ale","Kölsch","D.L. Geary Brewing Company",43.661471,-70.2553259
+"182","ME","Portland",0.045,NA,"Sunsplash Golden Ale (2004)","American Blonde Ale","Stone Coast Brewing Company",43.661471,-70.2553259
+"183","ME","Portland",0.047,NA,"Sea Dog Wild Blueberry Wheat Ale","Fruit / Vegetable Beer","Sea Dog Brewing Company",43.661471,-70.2553259
+"184","ME","Portland",0.047,NA,"Pumpkinhead Ale","Pumpkin Ale","Shipyard Brewing Company",43.661471,-70.2553259
+"185","ME","Portland",0.051,NA,"Shipyard Export","American Blonde Ale","Shipyard Brewing Company",43.661471,-70.2553259

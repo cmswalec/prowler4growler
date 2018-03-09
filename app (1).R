@@ -14,7 +14,6 @@ library(sf)
 CA_beer_sf <- st_as_sf(CA_beer, coords = c("longitude", "latitude"), crs = 4326)
  
 
-
 # Define UI for application that draws a map
 ui <- fluidPage(
    
@@ -27,10 +26,11 @@ ui <- fluidPage(
          
         selectInput("type", 
                     "Beer Preference", 
-                    choices = unique(CA_beer$style))
-        
-        
-      ),
+                    choices = unique(CA_beer$style)),
+      
+      textInput("text", 
+                "California City",
+                value = "Enter text...")),
       
       # Show a plot of the generated distribution
       mainPanel(
@@ -45,11 +45,12 @@ server <- function(input, output) {
    output$beer_map <- renderLeaflet({
      
      beer_sub <- CA_beer %>% 
-       filter(style == input$type)
+       filter(style == input$type & city == input$text)
      
      leaflet(beer_sub) %>% 
        addTiles() %>% 
        addMarkers()
+     
      
    })
   
