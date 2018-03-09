@@ -15,4 +15,7 @@ cities2 <- cities %>%
 CA_beer <- merge(CA, cities2, by.x = "city", by.y = "city_x") %>% 
   select("city", "abv", "ibu", "name", "style", "brew_name", "lat", "lng")
 
+colnames(CA_beer) <- c("city", "abv", "ibu", "name", "style", "brew_name", "latitude", "longitude")
+
 write.csv(CA_beer, "CA_beer.csv")
+
