@@ -1,6 +1,6 @@
 ###################
-#My Fire App
-#Caitlin
+#OUR BEER APP
+#Caitlin & Mario 
 ##################
 
 
