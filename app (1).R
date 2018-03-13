@@ -9,6 +9,8 @@ library(tidyverse)
 library(leaflet)
 library(sf)
 
+tot_beer <- read_csv("tot_beer.csv")
+
 #CA_beer set as simple feature for projection in leaflet
 
 tot_beer_sf <- st_as_sf(tot_beer, coords = c("longitude", "latitude"), crs = 4326)
@@ -53,9 +55,15 @@ server <- function(input, output) {
      
      leaflet(beer_sub) %>% 
        addTiles() %>% 
-       addMarkers()
+       addMarkers(lng = beer_sub$longitude, 
+                  lat = beer_sub$latitude,
+                  popup = beer_sub$brew_name)
      
-     
+   })
+   
+   observe({
+     proxy <- leafletProxy("beer_map") %>% 
+       fitBounds(-71.8,41,-69,47.255)
    })
   
   
