@@ -13,7 +13,7 @@ tot_beer <- read_csv("tot_beer.csv")
 
 
 BeerIcon <- makeIcon(
-  iconUrl = "https://i.imgur.com/NOWSVBu.png",
+  iconUrl = "http://i.imgur.com/NOWSVBu.png",
   iconWidth = 30, iconHeight = 30,
   iconAnchorX = 10, iconAnchorY = 10
   
@@ -27,7 +27,7 @@ tot_beer_sf <- st_as_sf(tot_beer, coords = c("longitude", "latitude"), crs = 432
 
 # Define UI for application that draws a map
 ui <- fluidPage(theme = shinytheme("superhero"),
-                
+
                 # Application title
                 h2("Prowler for a Growler", style = "font-family: 'Jura'; color: red; font-size: 64px;"),
                 
