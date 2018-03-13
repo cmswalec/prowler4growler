@@ -57,7 +57,7 @@ server <- function(input, output) {
        addTiles() %>% 
        addMarkers(lng = beer_sub$longitude, 
                   lat = beer_sub$latitude,
-                  popup = beer_sub$brew_name)
+                  popup = c(beer_sub$brew_name, beer_sub$style))
      
    })
    
