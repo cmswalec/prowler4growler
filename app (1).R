@@ -9,7 +9,8 @@ library(leaflet)
 library(sf)
 library(shinythemes)
 
-tot_beer <- read_csv("tot_beer.csv")
+tot_beer <- read_csv("tot_beer.csv") %>% 
+  mutate(abv_percent = 100*abv)
 
 
 BeerIcon <- makeIcon(
@@ -66,7 +67,22 @@ server <- function(input, output) {
       addTiles() %>% 
       addMarkers(lng = beer_sub$longitude, 
                  lat = beer_sub$latitude,
-                 popup = beer_sub$brew_name, 
+                 popup = paste(sep="", 
+                               "<font size = 2 color = red>", 
+                               "Brewery: ","</font>", 
+                               "<font size = 2 color = black>", 
+                               beer_sub$brew_name,"</font>", 
+                               "<br/>", 
+                               "<font size = 2 color = red>", 
+                               "Beer Name: ","</font>", 
+                               "<font size = 2 color = black>", 
+                               beer_sub$name,"</font>",
+                               "<br/>", 
+                               "<font size = 2 color = red>", 
+                               "Alcohol by Volume: ","</font>", 
+                               "<font size = 2 color = black>", 
+                               beer_sub$abv_percent," %","</font>",
+                               "</b>"),
                  icon = BeerIcon)
     
   })

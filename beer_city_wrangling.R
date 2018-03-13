@@ -88,5 +88,4 @@ colnames(ME_beer) <- c("state", "city", "abv", "ibu", "name", "style", "brew_nam
 
 tot_beer <- rbind(CT_beer, MA_beer, RI_beer, VT_beer, NH_beer, ME_beer)
 
-
-write.csv(tot_beer, "tot_beer.csv")
+write_csv(tot_beer, "tot_beer.csv")
