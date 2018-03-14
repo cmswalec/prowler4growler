@@ -1,0 +1,12 @@
+name: prowler4growler1
+title: prowler4growler1
+username:
+account: cmswalec
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 298976
+bundleId: 1267396
+url: https://cmswalec.shinyapps.io/prowler4growler1/
+when: 1520989344.61901
+asMultiple: FALSE
+asStatic: FALSE

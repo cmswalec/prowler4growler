@@ -9,6 +9,7 @@ library(leaflet)
 library(sf)
 library(shinythemes)
 
+
 tot_beer_final <- read_csv("tot_beer.csv") %>% 
   mutate(abv_percent = 100*abv)
 style_beer <- read_csv("style_beer.csv")
@@ -42,7 +43,9 @@ ui <- fluidPage(theme = shinytheme("superhero"),
                     radioButtons("loc", label = "State",
                                  choices = unique(tot_beer$state),
                                  selected = "ME"),
-                    verbatimTextOutput("value")),
+                    verbatimTextOutput("value"),
+                    h3("Source: Jean-Nicholas Hould. (2017). Craft Beers Dataset (Version 1). Retrieved from https://www.kaggle.com/nickhould/craft-cans/data.", style = "color = red; font-size: 12px;")
+                    ),
                   
                   mainPanel(
                     leafletOutput("beer_map")
