@@ -1,0 +1,13 @@
+name: prowler4growler
+title: prowler4growler
+username:
+account: cmswalec
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 298972
+bundleId: 1267383
+url: https://cmswalec.shinyapps.io/prowler4growler/
+when: 1520988758.54402
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|app (1).R|beer_city_wrangling.R|beers.csv|breweries.csv|CA_beer.csv|full_beer_list.csv|README.md|Shiny_beer.R|style_beer.csv|tot_beer.csv|uscitiesv1.3.csv
