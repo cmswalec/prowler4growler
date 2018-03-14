@@ -9,8 +9,11 @@ library(leaflet)
 library(sf)
 library(shinythemes)
 
-tot_beer <- read_csv("tot_beer.csv") %>% 
+tot_beer_final <- read_csv("tot_beer.csv") %>% 
   mutate(abv_percent = 100*abv)
+style_beer <- read_csv("style_beer.csv")
+
+tot_beer <- merge(tot_beer_final, style_beer)
 
 
 BeerIcon <- makeIcon(
@@ -38,8 +41,8 @@ ui <- fluidPage(theme = shinytheme("superhero"),
                     
                     selectInput("type", 
                                 "Beer Preference", 
-                                choices = unique(tot_beer$style),
-                                selected = "American IPA"),
+                                choices = unique(tot_beer$group),
+                                selected = "Ale"),
                     
                     radioButtons("loc", label = "State",
                                  choices = unique(tot_beer$state),
@@ -61,7 +64,7 @@ server <- function(input, output) {
   output$beer_map <- renderLeaflet({
     
     beer_sub <- tot_beer %>% 
-      filter(state == input$loc & style == input$type)
+      filter(state == input$loc & group == input$type)
     
     leaflet(beer_sub) %>% 
       addTiles() %>% 
@@ -77,6 +80,11 @@ server <- function(input, output) {
                                "Beer Name: ","</font>", 
                                "<font size = 2 color = black>", 
                                beer_sub$name,"</font>",
+                               "<br/>", 
+                               "<font size = 2 color = red>", 
+                               "Specific Beer Style: ","</font>", 
+                               "<font size = 2 color = black>", 
+                               beer_sub$style, "</font>",
                                "<br/>", 
                                "<font size = 2 color = red>", 
                                "Alcohol by Volume: ","</font>", 
