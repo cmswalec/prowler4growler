@@ -24,18 +24,13 @@ BeerIcon <- makeIcon(
 )
 
 
-#CA_beer set as simple feature for projection in leaflet
-
 tot_beer_sf <- st_as_sf(tot_beer, coords = c("longitude", "latitude"), crs = 4326)
 
 
-# Define UI for application that draws a map
 ui <- fluidPage(theme = shinytheme("superhero"),
 
-                # Application title
                 h2("Prowler for a Growler", style = "font-family: 'Jura'; color: red; font-size: 64px;"),
                 
-                # Sidebar with a slider input for number of bins 
                 sidebarLayout(
                   sidebarPanel(
                     
@@ -49,16 +44,12 @@ ui <- fluidPage(theme = shinytheme("superhero"),
                                  selected = "ME"),
                     verbatimTextOutput("value")),
                   
-                  
-                  
-                  # Show a plot of the generated distribution
                   mainPanel(
                     leafletOutput("beer_map")
                   )
                 )
 )
 
-# Define server logic required to draw an interactive map
 server <- function(input, output) {
   
   output$beer_map <- renderLeaflet({
@@ -103,6 +94,5 @@ server <- function(input, output) {
   
 }
 
-# Run the application 
 shinyApp(ui = ui, server = server)
 
