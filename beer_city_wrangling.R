@@ -34,6 +34,7 @@ CT_beer <- merge(CT, citiesCT, by.x = "city", by.y = "city_x") %>%
 
 colnames(CT_beer) <- c("state", "city", "abv", "ibu", "name", "style", "brew_name", "latitude", "longitude")
 
+
 #RI
 
 RI <- full_beer_list %>% 
